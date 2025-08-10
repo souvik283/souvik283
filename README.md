@@ -7,7 +7,7 @@
 🤝 Open to collaborating on **web apps**, **hackathon projects**, or anything that makes a real-world impact.  
 🌱 Constantly learning and experimenting with new tools, frameworks, and best coding practices.  
 💬 Ask me about **HTML, CSS, JavaScript, C, Java**, or anything you're curious about!  
-📫 Reach out to me at: [souvikghosh.dev@gmail.com](mailto:souvikghosh.dev@gmail.com)  
+📫 Reach out to me at: [souvik41205@gmail.com](mailto:souvik41205@gmail.com)  
 ⚡ Fun fact: I love solving problems through code and thrive in fast-paced, collaborative environments — especially hackathons!
 
 
@@ -30,5 +30,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=souvik283&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
